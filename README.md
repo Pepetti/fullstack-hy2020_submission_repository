@@ -1,4 +1,4 @@
-# Full stack open 2020
+# Full stack open 2021
 
 A MOOC provided by The University of Helsinki. Course serves as an introduction to modern web application development with JavaScript.
 
